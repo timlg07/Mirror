@@ -13,7 +13,7 @@
        {
           "displayName":"Basic",
           "description":"Basic",
-          "path":"Examples/Basic"
+          "path":"Assets/Mirror/Examples/Basic"
        },
        {
           "displayName":"Pong",
@@ -26,19 +26,49 @@
           "path":"Assets/Mirror/Examples/Tanks"
        },
        {
-          "displayName":"Lobby",
-          "description":"Lobby",
-          "path":"Assets/Mirror/Examples/Lobby"
+          "displayName":"Chat",
+          "description":"Chat",
+          "path":"Assets/Mirror/Examples/Chat"
        },
        {
-          "displayName":"ListServer",
-          "description":"ListServer",
-          "path":"Assets/Mirror/Examples/ListServer"
+          "displayName":"Discovery",
+          "description":"Discovery",
+          "path":"Assets/Mirror/Examples/Discovery"
        },
        {
           "displayName":"AdditiveScenes",
           "description":"AdditiveScenes",
           "path":"Assets/Mirror/Examples/AdditiveScenes"
+       },
+       {
+          "displayName":"MultipleAdditiveScenes",
+          "description":"MultipleAdditiveScenes",
+          "path":"Assets/Mirror/Examples/MultipleAdditiveScenes"
+       },
+       {
+          "displayName":"Cloud",
+          "description":"Cloud",
+          "path":"Assets/Mirror/Examples/Cloud"
+       },
+       {
+          "displayName":"MultipleMatches",
+          "description":"MultipleMatches",
+          "path":"Assets/Mirror/Examples/MultipleMatches"
+       },
+       {
+          "displayName":"RigidbodyPhysics",
+          "description":"RigidbodyPhysics",
+          "path":"Assets/Mirror/Examples/RigidbodyPhysics"
+       },
+       {
+          "displayName":"Room",
+          "description":"Room",
+          "path":"Assets/Mirror/Examples/Room"
+       },
+       {
+          "displayName":"Benchmark",
+          "description":"Benchmark",
+          "path":"Assets/Mirror/Examples/Benchmark"
        }
     ]
  }
